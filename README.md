@@ -1,2 +1,2 @@
 # cafe
-https://alinaomorbekova.github.io/cafe/
+https://alinaomorbekova.github.io/SE1website/
